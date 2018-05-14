@@ -16,3 +16,5 @@
 
 certs/
 notes/
+.DS_Store
+.envrc
